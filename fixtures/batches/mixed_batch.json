@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "batch_id": "batch-2026-09-001",
+  "items": [
+    {
+      "schema_version": 1,
+      "record_id": "cul-0001",
+      "domain": "metric_council",
+      "caliber_id": "culture.value_added",
+      "region": "110000",
+      "period": "2025",
+      "occurred_at": "2026-09-20T09:00:00+08:00",
+      "source": "yearbook",
+      "source_version": "yb2025",
+      "revision": 1,
+      "department": "文化统计处",
+      "material": {
+        "definition": "文化产业增加值（现价，法人单位口径）",
+        "denominator": "规模以上文化法人单位数",
+        "price_basis": "current_price",
+        "source_authorization": "授权书-2026-001"
+      }
+    },
+    {
+      "schema_version": 1,
+      "record_id": "agri-0042",
+      "domain": "agri_census",
+      "caliber_id": "agri.output_value",
+      "region": "000000",
+      "period": "2025",
+      "occurred_at": "2026-09-20T09:00:00+08:00",
+      "source": "farm",
+      "source_version": "f1",
+      "revision": 1,
+      "department": "农业普查办公室",
+      "material": {
+        "definition": "农业总产值（现价）",
+        "denominator": "农业经营户数",
+        "price_basis": "current_price",
+        "source_authorization": "农普授权-2026-004"
+      }
+    },
+    {
+      "schema_version": 1,
+      "record_id": "cul-0002",
+      "domain": "metric_council",
+      "caliber_id": "culture.value_added",
+      "region": "110000",
+      "period": "2025",
+      "occurred_at": "2026-09-20T09:00:00+08:00",
+      "source": "yearbook",
+      "source_version": "yb2025",
+      "revision": 1,
+      "department": "文化统计处",
+      "comment": "合同之外的字段",
+      "material": {
+        "definition": "文化产业增加值（现价，法人单位口径）",
+        "denominator": "规模以上文化法人单位数",
+        "price_basis": "current_price",
+        "source_authorization": "授权书-2026-001"
+      }
+    },
+    {
+      "schema_version": 1,
+      "record_id": "cul-0003",
+      "domain": "metric_council",
+      "caliber_id": "culture.value_added",
+      "region": "110000",
+      "period": "2025",
+      "occurred_at": "2026-09-20T09:00:00+08:00",
+      "source": "yearbook",
+      "source_version": "yb2025",
+      "revision": 0,
+      "department": "文化统计处",
+      "material": {
+        "definition": "文化产业增加值（现价，法人单位口径）",
+        "denominator": "规模以上文化法人单位数",
+        "price_basis": "current_price",
+        "source_authorization": "授权书-2026-001"
+      }
+    },
+    {
+      "schema_version": 1,
+      "record_id": "ind-0001",
+      "domain": "metric_council",
+      "caliber_id": "culture.value_added",
+      "region": "310000",
+      "period": "2025",
+      "occurred_at": "2026-09-21T10:00:00+08:00",
+      "source": "yearbook",
+      "source_version": "yb2025",
+      "revision": 1,
+      "department": "产业司",
+      "material": {
+        "definition": "文化产业增加值（现价，法人单位口径）",
+        "denominator": "规模以上文化法人单位数",
+        "price_basis": "current_price",
+        "source_authorization": "授权书-2026-001"
+      }
+    },
+    {
+      "schema_version": 1,
+      "record_id": "dev-0001",
+      "domain": "metric_council",
+      "caliber_id": "culture.value_added",
+      "region": "440000",
+      "period": "2025",
+      "occurred_at": "2026-09-22T11:00:00+08:00",
+      "source": "yearbook",
+      "source_version": "yb2025",
+      "revision": 1,
+      "department": "发展规划司",
+      "material": {
+        "definition": "文化产业增加值（现价，含个体经营户）",
+        "denominator": "规模以上文化法人单位数",
+        "price_basis": "current_price",
+        "source_authorization": "授权书-2026-001"
+      }
+    },
+    {
+      "schema_version": 1,
+      "record_id": "cul-0004",
+      "domain": "metric_council",
+      "caliber_id": "culture.value_added",
+      "region": "110000",
+      "period": "2025",
+      "occurred_at": "2026-09-20T09:00:00",
+      "source": "yearbook",
+      "source_version": "yb2025",
+      "revision": 1,
+      "department": "文化统计处",
+      "material": {
+        "definition": "文化产业增加值（现价，法人单位口径）",
+        "denominator": "规模以上文化法人单位数",
+        "price_basis": "current_price",
+        "source_authorization": "授权书-2026-001"
+      }
+    }
+  ]
+}

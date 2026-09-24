@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "record_id": "agri-2026-0042",
+  "domain": "agri_census",
+  "caliber_id": "agri.output_value",
+  "region": "000000",
+  "period": "2025",
+  "occurred_at": "2026-09-20T09:00:00+08:00",
+  "source": "farm",
+  "source_version": "f1",
+  "revision": 1,
+  "department": "农业普查办公室",
+  "material": {
+    "definition": "农业总产值（现价）",
+    "denominator": "农业经营户数",
+    "price_basis": "current_price",
+    "source_authorization": "农普授权-2026-004"
+  }
+}

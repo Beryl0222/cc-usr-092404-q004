@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "record_id": "cul-2026-0001",
+  "domain": "metric_council",
+  "caliber_id": "culture.value_added",
+  "region": "110000",
+  "period": "2025",
+  "occurred_at": "2026-09-20T09:00:00+08:00",
+  "source": "yearbook",
+  "source_version": "yb2025",
+  "revision": 1,
+  "department": "文化统计处",
+  "material": {
+    "definition": "文化产业增加值（现价，法人单位口径）",
+    "denominator": "规模以上文化法人单位数",
+    "price_basis": "current_price",
+    "source_authorization": "授权书-2026-001"
+  }
+}
